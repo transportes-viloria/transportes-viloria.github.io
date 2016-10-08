@@ -168,10 +168,10 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
+  Acerca: 'about'
+  Avisos: 'latest-post'
+  Línea de Tiempo: 'timeline'
+  Contacto: 'contact'
 
 # Exclusion list from the generated _site
 
