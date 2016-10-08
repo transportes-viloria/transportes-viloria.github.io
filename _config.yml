@@ -31,7 +31,7 @@ force-https: True
 
 lang: "es"
 author: "Gerardo G. Reyes"
-title: "{ El Colegio Iberoamericano te da la Bienvenida }"
+title: "{ Colegio Iberoamericano }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "Colegio Iberoamericano, Colegio, Iberoamericano, RVOE, SEP"
 favicon: "/img/favicon.ico"
@@ -56,8 +56,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Preparando a nuestros niños para un mejor futuro"
-  - text: "Alcanzando la excelencia en educación"
+  - text: "Preparando a nuestros niños para un mejor futuro..."
+  - text: "Alcanzando la excelencia en educación..."
   - text: "Sabías que contamos con Reconocimiento Oficial de la SEP?"
 
 me-img: "/img/jetpacktocat.png"
