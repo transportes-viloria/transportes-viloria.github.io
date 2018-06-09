@@ -126,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "isc.reyes.g+ibero@gmail.com"
+email: "isc.reyesg+webmaster@gmail.com"
 
 ################
 # Author Blurb #
@@ -170,7 +170,7 @@ social:
 pages_list:
   Acerca: 'about'
   Avisos: 'latest-post'
-  Línea de Tiempo: 'timeline'
+  Organigrama: 'timeline'
   Contacto: 'contact'
 
 # Exclusion list from the generated _site
