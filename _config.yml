@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://colegioiberoamericano.github.io"
+url: "https://transportes-viloria.github.io/"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -31,9 +31,9 @@ force-https: True
 
 lang: "es"
 author: "Gerardo G. Reyes"
-title: "Colegio Iberoamericano"
+title: "Transportes y Fletes Viloria"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "Colegio Iberoamericano, Colegio, Iberoamericano, RVOE, SEP"
+keywords: "Transportes, Viloria, fletes, envíos"
 favicon: "/img/favicon.ico"
 
 ################
@@ -56,9 +56,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Preparando a nuestros niños para un mejor futuro..."
-  - text: "Alcanzando la excelencia en educación..."
-  - text: "Sabías que contamos con Reconocimiento Oficial de la SEP?"
+  - text: "Lo mejor para transportar tus pertenecias..."
+  - text: "Calidad en el Servicio de Transportes y Fletes..."
+  - text: "Anímate a transportar con nosotros"
   - text: "Otro texto aleatorio..."
 
 
