@@ -120,11 +120,13 @@ events:
     description: "Te damos la mejor cotización del mercado"
   - image: "/img/timeline/spidertocat.png"
     date: "Recolección"
-    description: "Pasamos por tu envío"
+    description: "Pasamos por tu envío."
 
 # First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
+date: "Entrega"
+description: "Entregamos tu envío en el menor tiempo y excelentes condiciones."
 
 ###########
 # Contact #
