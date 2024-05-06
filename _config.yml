@@ -12,7 +12,6 @@ url: "https://transportes-viloria.github.io/"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-#baseurl: /personal-jekyll-theme
 baseurl: 
 
 # Google tracking id to track your visitors
@@ -32,7 +31,7 @@ force-https: True
 lang: "es"
 author: "Gerardo G. Reyes"
 title: "Transportes y Fletes Viloria"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+description: "Sitio dedicado a los transportes y Fletes"
 keywords: "Transportes, Viloria, fletes, envíos"
 favicon: "/img/favicon.ico"
 
@@ -56,10 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Lo mejor para transportar tus pertenecias..."
-  - text: "Calidad en el Servicio de Transportes y Fletes..."
-  - text: "Anímate a transportar con nosotros"
-  - text: "Otro texto aleatorio..."
+  - text: "Procesos de trabajo echos a medida."
+  - text: "Calidad y rapidez al mejor precio."
+  - text: "Te acompañamos en tu camino."
+  - text: "Contáctanos para brindarte el mejor servicio."
 
 
 me-img: "/img/jetpacktocat.png"
