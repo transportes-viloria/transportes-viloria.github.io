@@ -170,8 +170,8 @@ social:
 
 pages_list:
   Nosotros: 'about'
-  Avisos: 'latest-post'
-  Organigrama: 'timeline'
+  Servicios: 'latest-post'
+  Proceso: 'timeline'
   Contacto: 'contact'
 
 # Exclusion list from the generated _site
