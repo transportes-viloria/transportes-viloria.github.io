@@ -29,7 +29,7 @@ force-https: True
 #############
 
 lang: "es"
-author: "Gerardo G. Reyes"
+author: "Transportes y Fletes Viloria"
 title: "Transportes y Fletes Viloria"
 description: "Sitio dedicado a los transportes y Fletes"
 keywords: "Transportes, Viloria, fletes, envíos"
@@ -127,7 +127,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "isc.reyesg+webmaster@gmail.com"
+email: "transportes_dixi@hotmail.com"
 
 ################
 # Author Blurb #
