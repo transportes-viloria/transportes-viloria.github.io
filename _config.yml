@@ -118,13 +118,13 @@ events:
   - image: "/img/timeline/price.png"
     date: "Cotización"
     description: "Te damos la mejor cotización del mercado"
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/collect.png"
     date: "Recolección"
     description: "Pasamos por tu envío."
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/deliver.jpg"
 date: "Entrega"
 description: "Entregamos tu envío en el menor tiempo y excelentes condiciones."
 
