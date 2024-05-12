@@ -29,8 +29,8 @@ force-https: True
 #############
 
 lang: "es"
-author: "Transportes y Fletes Viloria"
-title: "Transportes y Fletes Viloria"
+author: "Viloria"
+title: "Transportes Viloria"
 description: "Sitio dedicado a los transportes y Fletes"
 keywords: "Transportes, Viloria, fletes, envíos"
 favicon: "/img/truck.ico"
