@@ -115,7 +115,7 @@ events:
   - image: "/img/timeline/contact.png"
     date: "Contacto"
     description: "Te comunicas con nosotros"
-  - image: "/img/timeline/price.jpg"
+  - image: "/img/timeline/price.png"
     date: "Cotización"
     description: "Te damos la mejor cotización del mercado"
   - image: "/img/timeline/spidertocat.png"
