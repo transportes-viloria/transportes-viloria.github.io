@@ -92,7 +92,7 @@ post-preview-words: 96
 
 paginate: 5
 
-email-share: True
+email-share: False
 fb-share: False
 twitter-share: False
 linkedin-share: False
@@ -101,7 +101,7 @@ google-plus-share: False
 tumblr-share: False
 pinterest-share: False
 pocket-share: False
-vkontakte-share: TrFalseue
+vkontakte-share: False
 
 disqus-shortname: "panossakkos"
 
