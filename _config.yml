@@ -114,7 +114,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/contact.png"
     date: "Contacto"
-    description: "Te comunicas con nosotros"
+    description: "Te comunicas con nosotros (55 8433 2098 y 55 5469 3039 transportes_dixi@hotmail.com)"
   - image: "/img/timeline/price.png"
     date: "Cotización"
     description: "Te damos la mejor cotización del mercado"
