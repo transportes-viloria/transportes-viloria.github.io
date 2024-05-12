@@ -39,7 +39,7 @@ favicon: "/img/truck.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/truck.ico"
 
 background-img: "../img/intro-bg.jpg"
 
