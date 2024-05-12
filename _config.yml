@@ -112,10 +112,10 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/contact.png"
     date: "Contacto"
     description: "Te comunicas con nosotros"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/price.jpg"
     date: "Cotización"
     description: "Te damos la mejor cotización del mercado"
   - image: "/img/timeline/spidertocat.png"
