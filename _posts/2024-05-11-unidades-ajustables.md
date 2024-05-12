@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Unidades ajustables
-category: inscripciones
+category: servicios
 tags: [ 'inscripciones' ]
 ---
 
