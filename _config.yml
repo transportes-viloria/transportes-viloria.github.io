@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Contáctanos para brindarte el mejor servicio."
 
 
-me-img: "/img/transp.png"
+#me-img: "/img/transp.png"
 
 ##############################
 # Color the browser elements #
