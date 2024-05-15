@@ -40,7 +40,7 @@ favicon: "/img/truck.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/bg2.jpeg"
+background-img: "../img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Contáctanos para brindarte el mejor servicio."
 
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/logo.png"
 
 ##############################
 # Color the browser elements #
